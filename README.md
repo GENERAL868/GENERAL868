@@ -20,10 +20,6 @@ I like shipping tools people actually use: fast, clean, and bilingual by default
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GENERAL868&layout=compact&theme=github_dark&hide_border=true)
-
 ## 🤝 Let's Connect
 
 Open to collaboration on desktop apps, Rust tooling and web projects. Feel free to open an issue on any of my repos.
