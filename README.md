@@ -8,7 +8,7 @@ I like shipping tools people actually use: fast, clean, and bilingual by default
 | Project | Description | Stack |
 |---|---|---|
 | **[FlowBit](https://github.com/GENERAL868/flowbit)** | Streaming torrent client for Windows: watch while it downloads, watch library, and a built-in subtitle translator. English & Arabic. | Rust · Tauri · mpv |
-| **[Storage Management System](https://github.com/GENERAL868/Storage-Management-System)** | Web-based inventory system: items, purchases, item issuing, search and user accounts. | PHP · CSS |
+| **Storage Management System** 🔒 *(private)* | Web-based inventory system: items, purchases, item issuing, search and user accounts. | PHP · CSS |
 
 ## 🛠️ Tech Stack
 
